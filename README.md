@@ -24,7 +24,7 @@ In order to meet their goals our client gave us the following 5 requirements:
 
 Additionally, the website must remain the same visually as this screenshot:
 
-![picture](assets\images\01-html-css-git-homework-demo.png)
+![picture](.Assets/images/01-html-css-git-homework-demo.png)
 
 ```
 ## Met requirements by the following:
@@ -48,7 +48,7 @@ Additionally, the website must remain the same visually as this screenshot:
 
 •	The Title element must include a concise, descriptive title
 -	Changed the title element from “website” to “Horiseon Website”
-        - Example: ![picture](assets\images\title-change.JPG)
+        - Example: ![picture](.assets/images/title-change.JPG)
 **
 •	In addition to the above requirements we fixed the following:
 -	Fixed link in nav for “Search Engine Optimization”
