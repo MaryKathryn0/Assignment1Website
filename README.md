@@ -6,7 +6,8 @@ Link to folder:
 ## Goal
 
 ```
-The client requested a codebase that follows accessibility standards so that their site is optimized for search engines.
+The client requested a codebase that follows accessibility standards 
+so that their site is optimized for search engines.
 
 ```
 
@@ -15,7 +16,8 @@ The client requested a codebase that follows accessibility standards so that the
 ```
 In order to meet their goals our client gave us the following 5 requirements:
 •	When the source code is viewed, Semantic HTML elements must be used. 
-•	When viewing the structure of the HTML elements, must find that elements follow logical structure independent of styling and positioning
+•	When viewing the structure of the HTML elements, must find that elements 
+    follow logical structure independent of styling and positioning
 •	All img elements should include accessible alt attributes
 •	Heading attributes must fall in sequential order
 •	The Title element must include a concise, descriptive title
@@ -29,10 +31,12 @@ Additionally, the website must remain the same visually as this screenshot:
 
 ```
 •	When the source code is viewed, Semantic HTML elements must be used.
-- 	Changed <div> correcting to the Semantic HTML elements that must be used to follow accessibilty standards 
+- 	Changed <div> correcting to the Semantic HTML elements that must be used to 
+    follow accessibilty standards 
         Example: ![Assignment1Website](assets\images\changed-div-semantic.JPG)
 
-•	When viewing the structure of the HTML elements, must find that elements follow logical structure independent of styling and positioning
+•	When viewing the structure of the HTML elements, must find that elements 
+    follow logical structure independent of styling and positioning
 -   Yes, HTML, Head, Body	
 
 •	All img elements should include accessible alt attributes
@@ -61,6 +65,7 @@ Additionally, the website must remain the same visually as this screenshot:
 
 Edited by Mary Kathryn Holt; https://github.com/MaryKathryn0.
 
-Content provided by: https://github.com/the-Coding-Boot-Camp-at-UT/UTA-AUS-FSF-FT-09-2020-U-C/
+Content provided by: 
+https://github.com/the-Coding-Boot-Camp-at-UT/UTA-AUS-FSF-FT-09-2020-U-C/
 ---
 
