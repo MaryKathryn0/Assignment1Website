@@ -33,7 +33,7 @@ Additionally, the website must remain the same visually as this screenshot:
 •	When the source code is viewed, Semantic HTML elements must be used.
 - 	Changed <div> correcting to the Semantic HTML elements that must be used to 
     follow accessibilty standards 
-        Example: ![Assignment1Website](assets\images\changed-div-semantic.JPG)
+        Example: ![Assignment1Website](changed-div-semantic.JPG)
 
 •	When viewing the structure of the HTML elements, must find that elements 
     follow logical structure independent of styling and positioning
@@ -58,6 +58,7 @@ Additionally, the website must remain the same visually as this screenshot:
 •	Maintained visual aspect of website after accessibility changes:
 
 ![Assignment1Website](assets\images\Website-after-changes.JPG)
+C:\Users\Mary Kathryn Holt\Desktop\Assignment1Website\assets\images\Website-after-changes.JPG
 
 ```
 
