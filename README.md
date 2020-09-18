@@ -32,11 +32,11 @@ Additionally, the website must remain the same visually as this screenshot:
 ```
 •	When the source code is viewed, Semantic HTML elements must be used.
 - 	Changed <div> correcting to the Semantic HTML elements that must be used to 
-    follow accessibilty standards 
+        follow accessibilty standards 
         Example: ![Assignment1Website](changed-div-semantic.JPG)
 
 •	When viewing the structure of the HTML elements, must find that elements 
-    follow logical structure independent of styling and positioning
+        follow logical structure independent of styling and positioning
 -   Yes, HTML, Head, Body	
 
 •	All img elements should include accessible alt attributes
@@ -48,7 +48,7 @@ Additionally, the website must remain the same visually as this screenshot:
 
 •	The Title element must include a concise, descriptive title
 -	Changed the title element from “website” to “Horiseon Website”
-        - Example: ![Assignment1Website](assets\images\title-change.JPG)
+        - Example: ![picture](assets\images\title-change.JPG)
 **
 •	In addition to the above requirements we fixed the following:
 -	Fixed link in nav for “Search Engine Optimization”
