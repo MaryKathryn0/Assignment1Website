@@ -41,7 +41,7 @@ Additionally, the website must remain the same visually as this screenshot:
 
 •	All img elements should include accessible alt attributes
 -	Added accessible alt attributes to all of the img elements
-       - Example: ![Assignment1Website](assets\images\img-change.JPG)
+       - Example: ![Assignment1Website](assets/images/img-change.JPG)
 
 •	Heading attributes must fall in sequential order
 -	Yes, h1,h2,h3
@@ -57,7 +57,7 @@ Additionally, the website must remain the same visually as this screenshot:
 ** 
 •	Maintained visual aspect of website after accessibility changes:
 
-![Assignment1Website](assets\images\Website-after-changes.JPG)
+![Assignment1Website](assets/images/Website-after-changes.JPG)
 C:\Users\Mary Kathryn Holt\Desktop\Assignment1Website\assets\images\Website-after-changes.JPG
 
 ```
