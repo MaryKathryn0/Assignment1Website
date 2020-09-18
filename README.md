@@ -17,14 +17,14 @@ so that their site is optimized for search engines.
 In order to meet their goals our client gave us the following 5 requirements:
 •	When the source code is viewed, Semantic HTML elements must be used. 
 •	When viewing the structure of the HTML elements, must find that elements 
-    follow logical structure independent of styling and positioning
+        follow logical structure independent of styling and positioning
 •	All img elements should include accessible alt attributes
 •	Heading attributes must fall in sequential order
 •	The Title element must include a concise, descriptive title
 
 Additionally, the website must remain the same visually as this screenshot:
 
-![picture](.Assets/images/01-html-css-git-homework-demo.png)
+![picture] (.Assets/images/01-html-css-git-homework-demo.png)
 
 ```
 ## Met requirements by the following:
@@ -33,7 +33,7 @@ Additionally, the website must remain the same visually as this screenshot:
 •	When the source code is viewed, Semantic HTML elements must be used.
 - 	Changed <div> correcting to the Semantic HTML elements that must be used to 
         follow accessibilty standards 
-        Example: ![Assignment1Website](changed-div-semantic.JPG)
+        Example: ![Assignment1Website] (changed-div-semantic.JPG)
 
 •	When viewing the structure of the HTML elements, must find that elements 
         follow logical structure independent of styling and positioning
@@ -41,14 +41,14 @@ Additionally, the website must remain the same visually as this screenshot:
 
 •	All img elements should include accessible alt attributes
 -	Added accessible alt attributes to all of the img elements
-       - Example: ![Assignment1Website](assets/images/img-change.JPG)
+       - Example: ![Assignment1Website] (assets/images/img-change.JPG)
 
 •	Heading attributes must fall in sequential order
 -	Yes, h1,h2,h3
 
 •	The Title element must include a concise, descriptive title
 -	Changed the title element from “website” to “Horiseon Website”
-        - Example: ![picture](.assets/images/title-change.JPG)
+        - Example: ![picture] (.assets/images/title-change.JPG)
 **
 •	In addition to the above requirements we fixed the following:
 -	Fixed link in nav for “Search Engine Optimization”
@@ -57,8 +57,8 @@ Additionally, the website must remain the same visually as this screenshot:
 ** 
 •	Maintained visual aspect of website after accessibility changes:
 
-![Assignment1Website](assets/images/Website-after-changes.JPG)
-C:\Users\Mary Kathryn Holt\Desktop\Assignment1Website\assets\images\Website-after-changes.JPG
+![Assignment1Website] (assets/images/Website-after-changes.JPG)
+
 
 ```
 
