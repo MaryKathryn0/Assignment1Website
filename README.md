@@ -1,4 +1,4 @@
-Link to folder:  
+Link to folder:  https://github.com/MaryKathryn0/Assignment1Website
 
 
 ## Horiseon Website Changes
