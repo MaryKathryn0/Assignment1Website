@@ -5,15 +5,15 @@ Link to folder:  https://github.com/MaryKathryn0/Assignment1Website
 
 ## Goal
 
-```
+
 The client requested a codebase that follows accessibility standards 
 so that their site is optimized for search engines.
 
-```
+
 
 ## Scope of Work
 
-```
+
 In order to meet their goals our client gave us the following 5 requirements:
 •	When the source code is viewed, Semantic HTML elements must be used. 
 •	When viewing the structure of the HTML elements, must find that elements 
@@ -25,10 +25,10 @@ In order to meet their goals our client gave us the following 5 requirements:
 Additionally, the website must remain the same visually as this screenshot:
 
 <img src="assets/images/01-html-css-git-homework-demo.png" alt="Before">
-```
+
 ## Met requirements by the following:
 
-```
+
 •	When the source code is viewed, Semantic HTML elements must be used.
 - 	Changed <div> correcting to the Semantic HTML elements that must be used to 
         follow accessibilty standards 
@@ -59,7 +59,7 @@ Additionally, the website must remain the same visually as this screenshot:
 ![Assignment1Website] (assets/images/Website-after-changes.JPG)
 
 
-```
+
 
 ## Credits
 
