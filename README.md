@@ -24,8 +24,7 @@ In order to meet their goals our client gave us the following 5 requirements:
 
 Additionally, the website must remain the same visually as this screenshot:
 
-![picture] (.Assets/images/01-html-css-git-homework-demo.png)
-
+<img src="assets/images/01-html-css-git-homework-demo.png" alt="Before">
 ```
 ## Met requirements by the following:
 
